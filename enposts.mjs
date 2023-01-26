@@ -12575,13 +12575,13 @@ for (const key of keys) {
  markdown += '\n'
 
  for (const post of posts) {
-    const link = `/blob/master/${convertToSlug(post.title)}.md`
+    const link = `${convertToSlug(post.title)}.md`
     markdown += `- [${post.title}](${link}) \n`
 
     const text = `
-    # [${post.title}](https://www.mindhaste.com/t/${post.topic.name}/${convertToSlug(post.title)}-${post.id})
+# [${post.title}](https://www.mindhaste.com/t/${post.topic.name}/${convertToSlug(post.title)}-${post.id})
 
-    ${post.description}
+${post.description}
     `
 
     await fs.promises.writeFile(`${convertToSlug(post.title)}.md`, text)
