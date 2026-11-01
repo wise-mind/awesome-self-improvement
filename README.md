@@ -50,6 +50,7 @@
 ## Phone addiction
 - [End Dependency on Your Phone: 8 Strategies for Success](phone-addiction/end-dependency-on-your-phone-8-strategies-for-success.md) 
 - [Stop Spending Too Much Time on Your Phone - Take Back Your Life!](phone-addiction/stop-spending-too-much-time-on-your-phone---take-back-your-life.md) 
+- [How to Stop Binge Watching Short Drama Apps, for Yourself and for Your Kids](phone-addiction/how-to-stop-binge-watching-short-drama-apps-for-yourself-and-your-kids.md) 
 
 ## Social media addiction
 - [Most people don't know the harmful effects of social media addiction. Here are 3 things you should know.](social-media-addiction/most-people-dont-know-the-harmful-effects-of-social-media-addiction-here-are-3-things-you-should-know.md) 
